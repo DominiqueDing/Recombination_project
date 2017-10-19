@@ -1,3 +1,7 @@
+Program is in the zip file.
+
+Instructions:
+
 Compile inference routines
 Go to Project/codes/LDhat-modifiedIntegrated/
 $ make -f makefile_cpp
